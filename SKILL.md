@@ -10,6 +10,7 @@ This folder contains Robobird-focused skills and helper scripts.
 
 ## Included skills
 - `skills/load-agents-via-robobird-api.SKILL.md`
+- `skills/release-robobird-to-robobird-app.SKILL.md`
 
 ## Included scripts
 - `scripts/load_agents_via_api.sh`
